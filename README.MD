@@ -1,16 +1,16 @@
 #PROJECT: TOWER OF POWER 
-##DATE:06/2015
+###DATE: June 2016
 
 (using a few lines from Kolling and Barnes zuul-better)
 
-#AUTHORS: Hannah Westbrook, Zachary Cox, Ethan Lundsford, Michael Kölling and David J. Barnes
+###AUTHORS: Hannah Westbrook, Zachary Cox, Ethan Lundsford, Michael Kölling and David J. Barnes
 
-#PROJECT DESCRIPTION: 
+##PROJECT DESCRIPTION: 
 Tower of Power is a text based game that my group and I created for our Intro to Java class at The University of Georgia. 
 
 20 levels! Think hard because there's no turning back! Good Luck ;)
 
-##ZUUL-BETTER INFO: 
+####ZUUL-BETTER INFO: 
 
 This project is part of the material for the book
 
