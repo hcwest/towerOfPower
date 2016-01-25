@@ -9,7 +9,6 @@ Tower of Power is a text based game that my group and I created for our Intro to
 
 20 levels! Think hard because there's no turning back! Good Luck ;)
 
-
 ##ZUUL-BETTER INFO: 
 
 This project is part of the material for the book
