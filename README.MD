@@ -38,4 +38,4 @@ The goal is to extend the game:
 
 Read chapter 7 of the book to get a detailed description of the project.
 
-... ---
+
