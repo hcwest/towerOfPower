@@ -1,6 +1,6 @@
 #PROJECT: TOWER OF POWER 
 (using a few lines from Kolling and Barnes zuul-better)
-###DATE: June 2016
+###DATE COMPLETION: June 2015
 
 ###AUTHORS: Hannah Westbrook, Zachary Cox, Ethan Lundsford, Michael Kölling and David J. Barnes
 
