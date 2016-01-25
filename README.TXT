@@ -26,6 +26,8 @@ That's all.
 To start this application, create an instance of class "Game" and call its
 "play" method.
 
+...
+
 This project was written as the starting point of a small Java project.
 
 The goal is to extend the game:
