@@ -25,3 +25,5 @@ The goal is to extend the game:
   - (anything you can think of, really...)
 
 Read chapter 7 of the book to get a detailed description of the project.
+
+...
